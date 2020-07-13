@@ -24,20 +24,20 @@
   url = "#teaching"
   weight = 40
 
-[[main]]
-  name = "Service"
-  url = "#service"
-  weight = 50
-
-[[main]]
-  name = "Publications"
-  url = "publication"
-  weight = 55
+#[[main]]
+#  name = "Service"
+#  url = "#service"
+#  weight = 50
 
 #[[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 70
+#  name = "Publications"
+#  url = "publication"
+#  weight = 55
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
