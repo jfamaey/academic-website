@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "FWO SBO IoBaLeT"
+title: "IoBaLeT"
 summary: "Sustainable Internet of Battery-Less Things (FWO SBO, 2020-2024)"
 authors: []
 tags: ["Current"]
