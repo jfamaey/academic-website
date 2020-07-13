@@ -19,7 +19,7 @@ subtitle = ""
   order = "desc"
   
    # Filter posts by a taxonomy term.
-  #[content.filters]
+  [content.filters]
     tag = "Current Projects"
 
 [design]

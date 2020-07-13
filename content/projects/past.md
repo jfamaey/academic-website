@@ -19,12 +19,12 @@ subtitle = ""
   order = "desc"
   
    # Filter posts by a taxonomy term.
-  #[content.filters]
+  [content.filters]
     tag = "Past Projects"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  #columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List

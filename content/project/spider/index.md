@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-**Title:** Scalable Localization-enabled In-body Terahertz Nanonetwork\
+**Title:** Small Platform Inter-satellite Data Exchange Routes\
 **Funding agency:** European Space Agency (ESA)\
 **Start date:** June 1, 2017\
 **Project duration:** 2 years
