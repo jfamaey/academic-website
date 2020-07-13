@@ -4,7 +4,7 @@
 title: "IoBaLeT"
 summary: "Sustainable Internet of Battery-Less Things (FWO SBO, 2020-2024)"
 authors: []
-tags: ["Current"]
+tags: ["Current Projects"]
 categories: []
 date: 2020-07-13T18:05:30+02:00
 
@@ -39,3 +39,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+*Title:* Sustainable Internet of Battery-Less Things
+*Funding agency:* Fund for Scientific Research Flanders (FWO) Strategic Basic Research (SBO)
+*Start date:* October 1, 2020
+*Project duration:* 4 years
+
+
