@@ -8,6 +8,8 @@ tags: ["Current Projects"]
 categories: []
 date: 2020-07-13T17:55:27+02:00
 
+profile: false
+
 # Optional external URL for project (replaces project detail page).
 external_link: "http://ideal.iot.vlaanderen/"
 

@@ -8,6 +8,9 @@ tags: ["Current Projects"]
 categories: []
 date: 2020-07-13T18:04:52+02:00
 
+
+profile: false
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

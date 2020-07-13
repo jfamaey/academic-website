@@ -20,7 +20,7 @@ organizations:
   url: "https://www.imec-int.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I research wireless network solutions for the IoT and beyond 5G applications.
+bio: I research wireless network solutions for IoT and beyond 5G applications.
 
 interests:
 - Wireless networks
