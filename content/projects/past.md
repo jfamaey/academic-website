@@ -1,9 +1,9 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Past Projects"
 subtitle = ""
@@ -11,6 +11,12 @@ subtitle = ""
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
+  
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 0
+
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
   
    # Filter posts by a taxonomy term.
   #[content.filters]
