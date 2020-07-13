@@ -73,6 +73,6 @@ user_groups:
 #- Visitors
 ---
 
-I am an assistant professor at the Internet and Data Lab (IDLab), an inter-university research group part of the University of Antwerp's Department of Computer Science and Ghent University's Department of Information Technology. Additionally, I am a principal investigator at imec.
+I am an assistant professor at the [Internet and Data Lab](https://idlab.technology) (IDLab), an inter-university research group part of the University of Antwerp's Department of Computer Science and Ghent University's Department of Information Technology. Additionally, I am a principal investigator at imec.
 
 My general research interests encompass performance modeling and optimization of emerging wireless network technologies. Currently, I am especially interested in low-power wireless networks for the Internet of Things, ultra-reliable low-latency communications for virtual and augmented reality, and the application of smart metasurfaces to beyond 5G wireless networks.
