@@ -6,7 +6,7 @@ summary: "Mission-Critical Applications Go Into Cellular IoT Networks (imec.icon
 authors: []
 tags: ["Past Projects"]
 categories: []
-date: 2017-10-1T22:54:30+02:00
+date: 2017-10-01T22:54:30+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

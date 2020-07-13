@@ -6,7 +6,7 @@ summary: "Multimodal Sub-1GHz Communication and Localization for IoT Application
 authors: []
 tags: ["Past Projects"]
 categories: []
-date: 2017-4-1T22:54:15+02:00
+date: 2017-04-01T22:54:15+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

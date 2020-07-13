@@ -6,7 +6,7 @@ summary: "Energy-aware computing on battery-less IoT devices (UA IOF, 2020-2021)
 authors: []
 tags: ["Current Projects"]
 categories: []
-date: 2020-1-1T18:04:52+02:00
+date: 2020-01-01T18:04:52+02:00
 
 
 profile: false

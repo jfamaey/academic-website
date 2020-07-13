@@ -6,7 +6,7 @@ summary: "Intelligent DEnse And Long Range IoT networks (FWO SBO, 2017-2021)"
 authors: []
 tags: ["Current Projects"]
 categories: []
-date: 2017-4-1T17:55:27+02:00
+date: 2017-04-01
 
 profile: false
 

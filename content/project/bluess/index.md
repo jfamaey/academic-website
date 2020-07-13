@@ -6,7 +6,7 @@ summary: "Bluetooth-based self-managed mesh networks for next-generation sustain
 authors: []
 tags: ["Current Projects"]
 categories: []
-date: 2019-5-1T18:05:20+02:00
+date: 2019-05-01T18:05:20+02:00
 
 
 profile: false

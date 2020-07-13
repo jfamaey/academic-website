@@ -6,7 +6,7 @@ summary: "Scalable Localization-enabled In-body Terahertz Nanonetwork (H2020 MSC
 authors: []
 tags: ["Current Projects"]
 categories: []
-date: 2020-06-1T18:05:25+02:00
+date: 2020-06-01T18:05:25+02:00
 
 
 profile: false

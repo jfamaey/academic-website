@@ -6,8 +6,8 @@ summary: "Sustainable Internet of Battery-Less Things (FWO SBO, 2020-2024)"
 authors: []
 tags: ["Current Projects"]
 categories: []
-date: 2020-07-13T18:05:30+02:00
-
+date: 2020-10-01T18:05:30+02:00
+publishDate: 2020-07-13
 
 profile: false
 

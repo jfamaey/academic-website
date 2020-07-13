@@ -6,7 +6,7 @@ summary: "Continous Athlete Monitoring (imec.icon, 2016-2018)"
 authors: []
 tags: ["Past Projects"]
 categories: []
-date: 2016-10-1T22:54:01+02:00
+date: 2016-10-01T22:54:01+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

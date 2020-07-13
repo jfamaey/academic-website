@@ -6,7 +6,7 @@ summary: "Small Platform Inter-satellite Data Exchange Routes (ESA, 2017-2018)"
 authors: []
 tags: ["Past Projects"]
 categories: []
-date: 2017-06-1T22:54:35+02:00
+date: 2017-06-01T22:54:35+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
