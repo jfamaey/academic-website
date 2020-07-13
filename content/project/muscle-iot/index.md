@@ -8,6 +8,8 @@ tags: ["Past Projects"]
 categories: []
 date: 2017-04-01T22:54:15+02:00
 
+profile: false
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
