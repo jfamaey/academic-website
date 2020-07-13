@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Ideal-IoT"
+title: "IDEAL-IoT"
 summary: "Intelligent DEnse And Long Range IoT networks (FWO SBO, 2017-2021)"
 authors: []
 tags: ["Current Projects"]
