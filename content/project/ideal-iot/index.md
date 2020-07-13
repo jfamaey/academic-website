@@ -4,7 +4,7 @@
 title: "Ideal-IoT"
 summary: "Intelligent DEnse And Long Range IoT networks (FWO SBO, 2017-2021)"
 authors: []
-tags: ["Current"]
+tags: ["Current Projects"]
 categories: []
 date: 2020-07-13T17:55:27+02:00
 
@@ -40,8 +40,8 @@ url_video: ""
 slides: ""
 ---
 *Title:* Intelligent DEnse And Long Range IoT networks
-*Funding:* Fund for Scientific Research Flanders (FWO) Strategic Basic Research (SBO)
-*Start date:* 1 April 2017
+*Funding agency:* Fund for Scientific Research Flanders (FWO) Strategic Basic Research (SBO)
+*Start date:* April 1, 2017
 *Project duration:* 4 years
 *Website:* [http://ideal.iot.vlaanderen]
 

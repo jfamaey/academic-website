@@ -4,7 +4,7 @@
 title: "BLUESS"
 summary: "Bluetooth-based self-managed mesh networks for next-generation sustainable sensing (imec.icon, 2019-2021)"
 authors: []
-tags: ["Current"]
+tags: ["Current Projects"]
 categories: []
 date: 2020-07-13T18:05:20+02:00
 
@@ -39,3 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+*Title:* Bluetooth-based self-managed mesh networks for next-generation sustainable sensing
+*Funding agency:* imec.icon
+*Start date:* May 1, 2019
+*Project duration:* 2 years
