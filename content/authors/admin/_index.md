@@ -24,9 +24,9 @@ bio: My research interests include performance modeling and optimization of wire
 
 interests:
 - Wireless networks
+- Network modeling and optimization
 - Internet of Things
 - Beyond 5G
-- Network modeling and optimization
 
 education:
   courses:
