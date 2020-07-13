@@ -78,4 +78,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-[Show all projects](project)
