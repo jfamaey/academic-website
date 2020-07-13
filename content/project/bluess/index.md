@@ -6,13 +6,13 @@ summary: "Bluetooth-based self-managed mesh networks for next-generation sustain
 authors: []
 tags: ["Current Projects"]
 categories: []
-date: 2020-07-13T18:05:20+02:00
+date: 2019-5-1T18:05:20+02:00
 
 
 profile: false
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.imec-int.com/en/what-we-offer/research-portfolio/bluess"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

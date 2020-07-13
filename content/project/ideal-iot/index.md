@@ -6,12 +6,12 @@ summary: "Intelligent DEnse And Long Range IoT networks (FWO SBO, 2017-2021)"
 authors: []
 tags: ["Current Projects"]
 categories: []
-date: 2020-07-13T17:55:27+02:00
+date: 2017-4-1T17:55:27+02:00
 
 profile: false
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://ideal.iot.vlaanderen/"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

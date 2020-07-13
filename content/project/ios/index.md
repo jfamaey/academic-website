@@ -6,7 +6,7 @@ summary: "Internet of Shipping (imec.icon, 2019-2021)"
 authors: []
 tags: ["Current Projects"]
 categories: []
-date: 2020-07-13T18:05:14+02:00
+date: 2019-1-1T18:05:14+02:00
 
 
 profile: false
