@@ -1,11 +1,11 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Selected Projects"
+title = "Current Projects"
 subtitle = ""
 
 [content]
@@ -13,7 +13,7 @@ subtitle = ""
   page_type = "project"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 2
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -21,6 +21,12 @@ subtitle = ""
    # Filter posts by a taxonomy term.
   [content.filters]
     tag = "Current Projects"
+	
+	filter_default = 0
+	
+  [[content.filter_button]]
+     name = "Current Projects"
+	 tag = "Current Projects"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -31,10 +37,10 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 2
+  view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.

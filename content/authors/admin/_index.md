@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Wireless Networks
+role: Research Professor of Wireless Networks
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,7 @@ bio: I research wireless network solutions for IoT and beyond 5G applications.
 
 interests:
 - Wireless networks
-- Network modeling and optimization
+- Performance modeling and optimization
 - Internet of Things
 - Beyond 5G
 
@@ -48,15 +48,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jeroen.famaey@uantwerpen.be'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/jfamaey
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.be/citations?user=mpIxFGoAAAAJ&hl=en&oi=ao
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Jeroen_Famaey
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/jfamaey
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +73,6 @@ user_groups:
 #- Visitors
 ---
 
-I am an assistant professor at the [Internet and Data Lab](https://idlab.technology) (IDLab), an inter-university research group part of the [University of Antwerp](https://www.uantwerpen.be/en/research-groups/idlab/)'s Department of Computer Science and [Ghent University](https://www.ugent.be/ea/idlab/en)'s Department of Information Technology. Additionally, I am a principal investigator at [imec](https://www.imec-int.com/).
+I am a research professor at the [Internet and Data Lab](https://idlab.technology) (IDLab), an inter-university research group part of the [University of Antwerp](https://www.uantwerpen.be/en/research-groups/idlab/)'s Department of Computer Science and [Ghent University](https://www.ugent.be/ea/idlab/en)'s Department of Information Technology. Additionally, I am a principal investigator at [imec](https://www.imec-int.com/).
 
-My general research interests encompass performance modeling and optimization of emerging wireless network technologies. Currently, I am especially interested in low-power wireless networks for the Internet of Things, ultra-reliable low-latency communications for virtual and augmented reality, and the application of smart metasurfaces to beyond 5G wireless networks.
+My general research interests encompass performance modeling and optimization of emerging wireless network technologies. Currently, I am particularly interested in low-power and battery-less communications and computing for the Internet of Things, and (beyond) 5G technologies such as ultra-reliable low-latency communications (URLLC), high-frequency communications (millimeter wave, Terahertz) and programmable metasurfaces.
