@@ -8,11 +8,39 @@
   url = "#about"
   weight = 10
   
-
 [[main]]
   name = "Projects"
-  url = "#projects"
+  identifier = "proj-menu"
   weight = 30
+
+[[main]]
+  name = "Current Projects"
+  parent = "proj-menu"
+  url = "#projects"
+  weight = 20
+
+[[main]]
+  name = "All Projects"
+  parent = "proj-menu"
+  url = "projects"
+  weight = 30
+
+[[main]]
+  name = "Publications"
+  identifier = "pub-menu"
+  weight = 35
+ 
+[[main]]
+  name = "Recent Publications"
+  parent = "pub-menu"
+  url = "#publications"
+  weight = 10
+ 
+[[main]]
+  name = "All Publications"
+  parent = "pub-menu"
+  url = "publication"
+  weight = 20
 
 [[main]]
   name = "Team"
@@ -33,11 +61,6 @@
   name = "Service"
   url = "#service"
   weight = 60
-
-#[[main]]
-#  name = "Publications"
-#  url = "#publications"
-#  weight = 35
 
 [[main]]
   name = "Contact"
