@@ -26,7 +26,7 @@ def parse_conference(text):
 	key += chr(key_index)
 	keys.add(key)
 	
-	bibtex = "@inproceedings{" + key + ",\n"
+	bibtex = "@inproceedings{Cnf-" + key + ",\n"
 	bibtex += "\tauthor = {"
 	for i in range(len(authors)):
 		bibtex += authors[i][1] + ", " + authors[i][0]
@@ -58,7 +58,7 @@ def parse_journal(text):
 	key += chr(key_index)
 	keys.add(key)
 	
-	bibtex = "@article{" + key + ",\n"
+	bibtex = "@article{Jnl-" + key + ",\n"
 	bibtex += "\tauthor = {"
 	for i in range(len(authors)):
 		bibtex += authors[i][1] + ", " + authors[i][0]
@@ -110,7 +110,7 @@ for line in input:
 input.close()
 	
 input = open('conference_papers.txt', encoding="utf8")
-
+keys.clear()
 for line in input:
 	print(parse_conference(line.rstrip('\n')))
 	print()
