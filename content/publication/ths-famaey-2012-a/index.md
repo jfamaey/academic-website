@@ -16,7 +16,7 @@ publishDate: 2020-07-18T17:42:47+02:00
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*PhD Thesis*"
+publication: "PhD Thesis, Ghent University"
 publication_short: ""
 
 abstract: ""

@@ -16,7 +16,7 @@ publishDate: 2020-07-18T17:42:47+02:00
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Master Thesis*"
+publication: "Master Thesis, Ghent University"
 publication_short: ""
 
 abstract: "Many multimedia services such as IP-TV, video conferencing and online gaming need to send the same data to multiple clients. To avoid having to send a copy from the sender to every receiver, multicasting can be used. Many of these services also need guarantees concerning the Quality of Service (QoS). In this thesis, I propose the use of an overlay network to resolve these issues. I implemented a software platform that automatically configures the overlay servers to support many-to-many multicast sessions. A number of algorithms were designed that intelligently calculate the multicast distribution trees to minimize the used bandwith and end-to-end delay."
