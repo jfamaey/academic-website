@@ -1,6 +1,6 @@
 ---
 title: "Battery-Less LoRaWAN Communications using Energy Harvesting: Modeling and Characterization"
-date: 2020-08-01
+date: 2020-08-24
 publishDate: 2020-07-18T15:35:17.542653Z
 authors: ["Carmen Delgado", "José María Sanz", "Chris Blondia", "Jeroen Famaey"]
 publication_types: ["2"]
@@ -9,4 +9,3 @@ featured: false
 publication: "*IEEE Internet of Things Journal*"
 doi: "10.1109/JIOT.2020.3019140"
 ---
-
