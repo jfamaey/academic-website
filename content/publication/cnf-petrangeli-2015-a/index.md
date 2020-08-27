@@ -1,11 +1,11 @@
 ---
 title: "Design and Evaluation of a DASH-compliant Second Screen Video Player for Live Events in Mobile Scenarios"
-date: 2015-01-01
+date: 2015-05-11
 publishDate: 2020-07-18T15:35:17.658553Z
 authors: ["Stefano Petrangeli", "Niels Bouten", "Jeroen Famaey", "Filip De Turck", "Philip Leroux"]
 publication_types: ["1"]
-abstract: ""
+abstract: "The huge diffusion of mobile devices is rapidly changing the way multimedia content is consumed. Mobile devices are often used as a second screen, providing complementary information on the content shown on the primary screen, as different camera angles in case of a sport event. The introduction of multiple camera angles poses many challenges with respect to guaranteeing a high Quality of Experience to the end user, especially when the live aspect, different devices and highly variable network conditions typical of mobile environments come into play. Due to the ability of HTTP Adaptive Streaming (HAS) protocols to dynamically adapt to bandwidth fluctuations, they are especially suited for the delivery of multimedia content in mobile environments. In HAS, each video is temporally segmented and stored in different quality levels. Rate adaptation heuristics, deployed at the video player, allow the most appropriate quality level to be dynamically requested, based on the current network conditions. Recently, a standardized solution has been proposed by the MPEG consortium, called Dynamic Adaptive Streaming over HTTP (DASH). We present in this paper a DASH-compliant iOS video player designed to support research on rate adaptation heuristics for live second screen scenarios in mobile environments. The video player allows to monitor the battery consumption and CPU usage of the mobile device and to provide this information to the heuristic. Live and Video-on-Demand streaming scenarios and real-time multi-video switching are supported as well. Quantitative results based on real 3G traces are reported on how the developed prototype has been used to benchmark two existing heuristics and to analyse the main aspects affecting battery lifetime in mobile video streaming."
 featured: false
 publication: "*In proceedings of the 14th IFIP/IEEE International Symposium on Integrated Network Management (IM)*"
+doi: "10.1109/INM.2015.7140403"
 ---
-
