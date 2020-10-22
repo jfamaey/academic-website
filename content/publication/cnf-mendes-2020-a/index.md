@@ -8,5 +8,6 @@ abstract: "The performance of wireless networking approaches degrades under user
 featured: false
 publication: "*ACM Conference on Embedded Networked Sensor Systems (SenSys)*"
 doi: ""
+url_video: "https://www.youtube.com/watch?v=fxDkR-Qat6w"
 ---
 

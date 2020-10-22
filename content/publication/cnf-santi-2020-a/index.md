@@ -8,6 +8,6 @@ abstract: "Multi-Radio Access Technology (RAT) IoT devices are able to combine t
 featured: false
 publication: "*IEEE Wireless Communications and Networking Conference (WCNC)*"
 doi: "10.1109/WCNC45663.2020.9120464"
-url_video: "cnf-santi-2020-a.mp4"
+url_video: "https://www.youtube.com/watch?v=hFZEeK2Kyus"
 ---
 

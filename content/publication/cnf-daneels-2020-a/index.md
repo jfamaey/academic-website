@@ -8,6 +8,6 @@ abstract: "Low-power wireless mesh networks provide connectivity for a wide rang
 featured: false
 publication: "*IEEE International Conference on Communications (ICC)*"
 doi: "10.1109/ICC40277.2020.9149141"
-url_video: "cnf-daneels-2020-a.mp4"
+url_video: "https://www.youtube.com/watch?v=NwBqByqffBw"
 ---
 
