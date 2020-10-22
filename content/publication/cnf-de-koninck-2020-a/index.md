@@ -1,5 +1,5 @@
 ---
-title: "Experimental Validation of IEEE 802.11ah Propagation Models in Heterogeneous Smarty City Environments"
+title: "Experimental Validation of IEEE 802.11ah Propagation Models in Heterogeneous Smart City Environments"
 date: 2020-12-07
 publishDate: 2020-07-18T15:35:17.596039Z
 authors: ["Tobia De Koninck", "Serena Santi", "Jeroen Famaey", "Filip Lemic"]
