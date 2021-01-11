@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "IoS"
-summary: "Internet of Shipping (imec.icon, 2019-2021)"
+summary: "Internet of Shipping (imec.icon, 2019-2020)"
 authors: []
-tags: ["Current Projects"]
+tags: ["Past Projects"]
 categories: []
 date: 2019-01-01T18:05:14+02:00
 
