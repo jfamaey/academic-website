@@ -23,18 +23,18 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   #gradient_start = "DarkGreen"
   #gradient_end = "ForestGreen"
-  
+
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
+
   # Text color (true=light or false=dark).
   #text_color_light = true
 
@@ -43,9 +43,9 @@ subtitle = ""
   padding = ["20px", "0", "20px", "0"]
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 +++
@@ -74,6 +74,8 @@ subtitle = ""
 IEEE Internet of Things Journal, IEEE Wireless Communications, Springer Wireless Networks, Elsevier Computer Communications, IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, Elsevier Computer Networks, IEEE Communications Magazine, Elsevier Journal of Network and Computer Applications, MDPI Sensors, IEEE Network, IEEE Access, ACM Transactions on Multimedia Computing Communications and Applications, Elsevier Computer Standards & Interfaces, Signal Processing: Image Communication, Wiley International Journal of Network Management, IEEE Transactions on Multimedia, IEEE Transactions of Network and Service Management, etc.
 
 ## Doctoral evaluation committee membership
+* [Amina Seferagic](http://hdl.handle.net/1854/LU-8697061), Ghent University, Belgium, 2021
+* [Ruben Mennes](https://hdl.handle.net/10067/1751730151162165141), University of Antwerp, Belgium, 2021
 * [Hany Assasa](http://eprints.networks.imdea.org/id/eprint/2019), Universidad Carlos III de Madrid, Spain, 2019
 * [Jeroen van der Hooft](https://biblio.ugent.be/publication/8616762), Ghent University, Belgium, 2019
 * [Stefano Petrangeli](https://biblio.ugent.be/publication/8553995), Ghent University, Belgium, 2018
