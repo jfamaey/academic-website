@@ -8,4 +8,5 @@ abstract: "IEEE 802.11ah is a novel sub-GHz license-free WiFi technology that is
 featured: false
 publication: "*IEEE Global Communications Conference (Globecom)*"
 url_video: "https://youtu.be/4nkNUODQnHk"
+doi: "10.1109/GLOBECOM42002.2020.9347994"
 ---

@@ -8,4 +8,5 @@ abstract: "The need for cables with high-fidelity Virtual Reality (VR) headsets 
 featured: false
 publication: "*IEEE Global Communications Conference (Globecom)*"
 url_video: "https://youtu.be/cW9fr1HgKMQ"
+doi: "10.1109/GLOBECOM42002.2020.9322284"
 ---

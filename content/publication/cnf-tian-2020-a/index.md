@@ -8,5 +8,5 @@ abstract: "Small satellite constellations are an attractive alternative to provi
 featured: false
 publication: "*IEEE International Conference on Networks of the Future (NoF)*"
 url_video: "https://www.youtube.com/watch?v=u6a77nBieI4"
+doi: "10.1109/NoF50125.2020.9249093"
 ---
-
